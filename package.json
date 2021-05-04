@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "cd b && npx tsc"
+  },
   "dependencies": {
     "typescript": "^4.2.4"
   }
